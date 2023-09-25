@@ -13,6 +13,7 @@ header{
 
 .tablex1{
     background-color: #20a9e5;
+    white-space: nowrap;
 }
 
 .tablex2{
@@ -22,3 +23,8 @@ header{
 .tablex3{
     background-color: white;
 }
+
+.colorfooter{
+    color: #808080;
+}
+
